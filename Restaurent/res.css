@@ -1,0 +1,182 @@
+  .bg1{
+    background-image:url(pexels-lisa-fotios-861090.jpg);
+    height:fit-content;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+.logo img{
+  height: 40%;
+  width: 40%;
+}
+
+@media (min-width: 992px)
+{.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 1.6rem;
+  padding-left: 1.6rem;
+}
+}
+
+.nav-item a {
+  color: white;
+  font-weight:500;
+}
+.active .nav-link{
+  color: #c19a64;
+}
+
+.heading1 {
+  font-family: 'Arizonia', cursive;
+  font-weight: 500;
+  text-align: center;
+  color: #c19a64;
+}
+body{
+  color:white ;
+}
+.heading2{
+  text-align: center;
+}
+.p1{
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 400;
+  font-size: large;
+}
+.blackbg{
+  background-color: black;
+  height: 40%;
+  margin-bottom: 0%;
+}
+
+.phone{
+  text-align: center;
+}
+.form{
+
+  background-color: #c49a64;
+}
+.phonepara{
+  text-transform: uppercase;
+}
+.discover{
+  background-image: url(texture.jpeg);
+  height: fit-content;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+  
+}
+
+.kitchen{
+  height: 120vh;
+  width: 105%;
+  overflow: auto;
+  filter: brightness(.9);
+}
+.ourstory{
+  background-color: rgba(0, 0, 0, 0.7);
+  margin-left: -20%;
+}
+.dis{
+  font-family: 'Arizonia', cursive;
+  color: #c19a64;
+  font-size: 4rem;
+}
+.p2{
+  text-transform: uppercase;
+}
+.quality{
+  background-color: #c49a64;
+  
+}
+.coffeelogo{
+  height: 38%;
+  width: 38%;
+  border: 1px solid #1d150b;
+  padding:0% 8%;
+  margin: 0 32%;
+}
+.qual{
+  color:  #1d150b;
+  text-align: center;
+  text-transform: uppercase;
+}
+.menu{
+  text-align: right;
+
+}
+.menupic{
+  height: 45%;
+  width:100%;
+}
+
+.cupbg{
+  background-image: url(menu-2.jpg);
+  height:fit-content;
+  width:100%;
+  background-position: center;
+  
+  background-size: cover;
+  background-attachment: fixed;
+  filter: brightness(.95);
+  
+}
+
+.customer{
+  height: 45%;
+  width: 45%;
+  border: 2px solid  #c09a64;
+  padding:25px 0;
+  filter:brightness(1.) !important ;
+justify-content: center;
+margin-left: 26.5%;
+}
+.five{
+  color:  #c09a64;
+  filter:brightness(1) !important;
+  text-align: center;
+
+}
+.products{
+  text-align: center;}
+
+.capu{
+  height: 40%;
+  width: 100%;
+}
+.cen{
+  text-align: center;
+}
+.cart{
+  margin-left:25%;
+}
+.pd{
+  text-transform: uppercase;
+  color:rgb(219, 210, 210);
+  font-weight: 300;
+}
+.gall{
+  width:100%;
+  height: 300px;
+  padding: 0;
+}
+.padd{
+padding: 0;
+}
+
+.footbg{
+  background-color: black;
+}
+
+.footpic{
+  width: 80%;
+  height:35%;
+}
+.cal,.cal a{
+  color:rgb(180, 174, 174);
+  
+}
